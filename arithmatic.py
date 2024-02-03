@@ -2,7 +2,8 @@ def addition(no1, no2):
     ans = no1 + no2
     return ans
 
-a = 10
-b = 20
-ans = addition(a, b)
-print(f"Addition of {a} and {b} is {ans}")
+
+number1 = 10
+number2 = 20
+ans = addition(number1, number2)
+print(f"Addition of {number1} and {number2} is {ans}")
