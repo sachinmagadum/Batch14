@@ -42,7 +42,7 @@ number2 = 10
 ans = Division(number1, number2)
 print(f"Division of {number1} and {number2} is {ans}")
 
-# this code is added by sachin
+# this code is added by avinash
 print(number1)
 
 
