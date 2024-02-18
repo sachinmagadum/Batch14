@@ -44,3 +44,9 @@ print(f"Division of {number1} and {number2} is {ans}")
 
 # this code is added by sachin
 print(number2)
+
+# this code is added by avinash
+print(number1)
+
+
+
