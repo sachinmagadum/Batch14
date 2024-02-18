@@ -9,14 +9,16 @@ ans = addition(number1, number2)
 print(f"Addition of {number1} and {number2} is {ans}")
 
 #Code by Avinash
-def sub(no1, no2):
+def subtraction(no1, no2):
     ans = no1 - no2
+    print(ans)
     return ans
+
 
 
 number1 = 10
 number2 = 20
-ans = sub(number1, number2)
+ans = subtraction(number1, number2)
 print(f"Subtraction of {number1} and {number2} is {ans}")
 
 
